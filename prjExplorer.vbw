@@ -1,0 +1,8 @@
+frmMain = 110, 110, 662, 507, , 132, 132, 684, 529, C
+cDrives = 66, 66, 618, 463, 
+mWinAPI = 88, 88, 640, 485, Z
+mVariables = 176, 176, 728, 573, 
+mProcFunc = 88, 88, 640, 485, 
+mExplorerTree = 220, 220, 728, 696, 
+mFileList = 0, 0, 508, 476, 
+mSearchNodes = 66, 66, 617, 446, 
